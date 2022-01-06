@@ -84,6 +84,7 @@ button{
     background-repeat: no-repeat;
     background-position:center;
     background-size: 400px;
+    margin-top: 50px;
 }
 .program{
     width: 50%;
@@ -93,4 +94,35 @@ button{
 }
 .program img{
     width: 100%;
+    border: 5px;
+    border-radius: 10px;
+}
+
+.app{
+    display: flex;
+    
+    
+}
+
+.build-section{
+    margin-top: 80px;
+    margin-left: 10px;
+    margin-right: 10px;
+   
+}
+.fetures{
+    margin-left: 20px;
+    padding: 10px;
+}
+
+.fetures img{
+    border: 5px;
+    border-radius: 10px;
+}
+.footer{
+    background-color: black;
+    color: white;
+}
+.footer p{
+    text-align: center;
 }

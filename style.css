@@ -1,9 +1,17 @@
 body{
+    
+    font-family: 'Cormorant Garamond', serif;
     font-family: 'Dancing Script', cursive;
     font-family: 'Moon Dance', cursive;
+    font-family: 'Patrick Hand', cursive;
     font-family: 'Satisfy', cursive;
+    font-family: 'Signika', sans-serif;
     font-family: 'The Nautigal', cursive;
     font-family: 'Yellowtail', cursive;
+}
+
+.web-page{
+    margin: 30px;
 }
 h1{
     font-size: 30px;

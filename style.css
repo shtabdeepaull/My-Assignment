@@ -59,4 +59,18 @@ button{
     width: 80%;
 }
 
-
+.about-learning{
+    display: flex;
+}
+.about-learning{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    margin-top: 80px;
+    margin-left: 20px;
+    padding: 10px;
+}
+.half-width img{
+    width: 100%;
+}
